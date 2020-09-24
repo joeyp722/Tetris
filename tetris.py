@@ -1,4 +1,3 @@
-import turtle as tu
 import keyboard as key
 from tkinter import *
 import time
